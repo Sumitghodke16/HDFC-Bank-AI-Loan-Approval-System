@@ -4,6 +4,16 @@ An AI-powered banking risk assessment and loan approval prediction system develo
 
 This project simulates a realistic Indian banking loan approval workflow using customer financial data, credit behavior, repayment history, liabilities, and risk analysis.
 
+# 🌐 Live Application
+
+## 🚀 Streamlit Deployment
+
+[👉 Open HDFC Bank AI Loan Approval System](https://hdfc-bank-ai-loan-approval-system.streamlit.app/)
+
+Direct Link:
+
+https://hdfc-bank-ai-loan-approval-system.streamlit.app/
+
 The system predicts:
 
 * ✅ Loan Approved
